@@ -1,0 +1,40 @@
+Hello Friends! This is a file named 1f_Greet.txt 
+Welcome how to read a file using python
+Hey BUddy how are you i am fine my friend
+
+Shiva (/ˈʃɪvə/; Sanskrit: शिव, lit. 'The Auspicious One', IAST: Śiva [ɕɪʋɐ]), also known as Mahadeva (/məˈhɑː ˈdeɪvə/; Sanskrit: महादेव:, lit. 'The Great God', IAST: Mahādevaḥ, [mɐɦaːd̪eːʋɐh)[10][11][12] or Hara,[13] is one of the principal deities of Hinduism.[14] He is the Supreme Being in Shaivism, one of the major traditions within Hinduism.[15]
+
+Shiva is known as The Destroyer within the Trimurti, the Hindu trinity which also includes Brahma and Vishnu.[3][16] In the Shaivite tradition, Shiva is the Supreme Lord who creates, protects and transforms the universe.[10][11][12] In the goddess-oriented Shakta tradition, the Supreme Goddess (Devi) is regarded as the energy and creative power (Shakti) and the equal complementary partner of Shiva.[17][18] Shiva is one of the five equivalent deities in Panchayatana puja of the Smarta tradition of Hinduism.[19]
+
+Shiva has many aspects, benevolent as well as fearsome. In benevolent aspects, he is depicted as an omniscient Yogi who lives an ascetic life on Mount Kailash[3] as well as a householder with his wife Parvati and his two children, Ganesha and Kartikeya. In his fierce aspects, he is often depicted slaying demons. Shiva is also known as Adiyogi (the first Yogi), regarded as the patron god of yoga, meditation and the arts.[20] The iconographical attributes of Shiva are the serpent king Vasuki around his neck, the adorning crescent moon, the holy river Ganga flowing from his matted hair, the third eye on his forehead (the eye that turns everything in front of it into ashes when opened), the trishula or trident as his weapon, and the damaru. He is usually worshipped in the aniconic form of lingam.[4]
+
+Shiva has pre-Vedic roots,[21] and the figure of Shiva evolved as an amalgamation of various older non-Vedic and Vedic deities, including the Rigvedic storm god Rudra who may also have non-Vedic origins,[22] into a single major deity.[23] Shiva is a pan-Hindu deity, revered widely by Hindus in India, Nepal, Bangladesh, Sri Lanka and Indonesia (especially in Java and Bali)
+Shiva (/ˈʃɪvə/; Sanskrit: शिव, lit. 'The Auspicious One', IAST: Śiva [ɕɪʋɐ]), also known as Mahadeva (/məˈhɑː ˈdeɪvə/; Sanskrit: महादेव:, lit. 'The Great God', IAST: Mahādevaḥ, [mɐɦaːd̪eːʋɐh)[10][11][12] or Hara,[13] is one of the principal deities of Hinduism.[14] He is the Supreme Being in Shaivism, one of the major traditions within Hinduism.[15]
+
+Shiva is known as The Destroyer within the Trimurti, the Hindu trinity which also includes Brahma and Vishnu.[3][16] In the Shaivite tradition, Shiva is the Supreme Lord who creates, protects and transforms the universe.[10][11][12] In the goddess-oriented Shakta tradition, the Supreme Goddess (Devi) is regarded as the energy and creative power (Shakti) and the equal complementary partner of Shiva.[17][18] Shiva is one of the five equivalent deities in Panchayatana puja of the Smarta tradition of Hinduism.[19]
+
+Shiva has many aspects, benevolent as well as fearsome. In benevolent aspects, he is depicted as an omniscient Yogi who lives an ascetic life on Mount Kailash[3] as well as a householder with his wife Parvati and his two children, Ganesha and Kartikeya. In his fierce aspects, he is often depicted slaying demons. Shiva is also known as Adiyogi (the first Yogi), regarded as the patron god of yoga, meditation and the arts.[20] The iconographical attributes of Shiva are the serpent king Vasuki around his neck, the adorning crescent moon, the holy river Ganga flowing from his matted hair, the third eye on his forehead (the eye that turns everything in front of it into ashes when opened), the trishula or trident as his weapon, and the damaru. He is usually worshipped in the aniconic form of lingam.[4]
+
+Shiva has pre-Vedic roots,[21] and the figure of Shiva evolved as an amalgamation of various older non-Vedic and Vedic deities, including the Rigvedic storm god Rudra who may also have non-Vedic origins,[22] into a single major deity.[23] Shiva is a pan-Hindu deity, revered widely by Hindus in India, Nepal, Bangladesh, Sri Lanka and Indonesia (especially in Java and Bali).[24]
+
+Part of a series on
+Shaivism
+
+Deities
+Scriptures and texts
+Philosophy
+Practices
+Schools
+Scholars
+Related
+ Hinduism portal
+vte
+Etymology and other names
+Main article: Shiva Sahasranama
+According to the Monier-Williams Sanskrit dictionary, the word "śiva" (Devanagari: शिव, also transliterated as shiva) means "auspicious, propitious, gracious, benign, kind, benevolent, friendly".[25] The root words of śiva in folk etymology are śī which means "in whom all things lie, pervasiveness" and va which means "embodiment of grace".[25][26]
+
+The word Shiva is used as an adjective in the Rig Veda (c. 1700–1100 BCE), as an epithet for several Rigvedic deities, including Rudra.[27] The term Shiva also connotes "liberation, final emancipation" and "the auspicious one"; this adjectival usage is addressed to many deities in Vedic literature.[25][28] The term evolved from the Vedic Rudra-Shiva to the noun Shiva in the Epics and the Puranas, as an auspicious deity who is the "creator, reproducer and dissolver".[25][29]
+
+Sharma presents another etymology with the Sanskrit root śarv-, which means "to injure" or "to kill",[30] interpreting the name to connote "one who can kill the forces of darkness".[31]
+
+The Sanskrit word śaiva means "relating to the god Shiva", and this term is the Sanskrit name both for one of the principal sects of Hinduism and for a member of that sect.[32] It is used as an adjective to characterize certain beliefs and practices, such as Shaivism.[33]
