@@ -34,5 +34,5 @@ print(odd)
 #use zip to find transpose
 
 matrix=[[1,2,3],[4,5,6],[7,8,9]]
-
+print(list(zip(matrix)))
 print(list(x for x in zip(*matrix)))
