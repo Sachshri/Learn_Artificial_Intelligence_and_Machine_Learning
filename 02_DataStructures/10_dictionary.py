@@ -72,6 +72,7 @@ for word, count in word_frequencies.items():
 if(3 in dct2.keys()):
     print("Yes")
 
+print(dct3.setdefault('sachin','kriti'))
 #Multidimensional Dictionary
 
 multi_dict={
