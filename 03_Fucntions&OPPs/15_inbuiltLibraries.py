@@ -40,6 +40,7 @@ print(dt.datetime(99,8,10,9,8,5))
 
 from datetime import datetime,timedelta
 current_datetime=datetime.now()
+
 # Format a datetime object as a string
 formatted_date = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
 print(formatted_date)
